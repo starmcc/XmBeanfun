@@ -1,6 +1,6 @@
 *.bak
 *.dat
-/plugin/
+plugin/**
 config.ini
 act.json
 node.dll
