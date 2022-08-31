@@ -1,0 +1,6 @@
+*.bak
+*.dat
+/plugin/
+config.ini
+act.json
+node.dll
