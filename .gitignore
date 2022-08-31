@@ -1,6 +1,9 @@
 *.bak
 *.dat
 plugin/**
+data/**
 config.ini
 act.json
 node.dll
+
+LocalStorage/
