@@ -1,5 +1,7 @@
 # XmBeanfun 登录器
 
+## 本工具已停止维护，请转向Java开发的版本使用 https://github.com/starmcc/qs-beanfun
+
 ## 前言
 
 XmBeanfun 小梦登录器，是一款新枫之谷登入工具。
